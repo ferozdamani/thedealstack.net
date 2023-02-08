@@ -1,2 +1,3 @@
-# fdamani
-Gatsby based website
+# thedealstack
+Affiliate website
+Currently in progress
